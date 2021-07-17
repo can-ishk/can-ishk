@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanishk, a second year Computer Science and Engineering student.
-- 👀 I’m interested in Open Source and Competitive Programming
-- 🌱 I’m currently learning more about CP and Development with C++, Java, Python and Javascript.
+- 👀 I’m interested in Open Source, Competitive Programming, and Cyber Security.
+- 🌱 I’m currently learning more about CP and Development with C++, Java, Python and Javascript as well as Cyber Security concepts.
 - 💞️ I’m looking to collaborate on beginner - intermediate development projects.
 - 📫 Reach out to me on my LinkedIn: https://www.linkedin.com/in/kanishk-chathley/
 
