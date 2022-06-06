@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kanishk</h1>
-<img src="https://komarev.com/ghpvc/?username=can-ishk&label=Profile%20views&color=0e75b6&style=flat"
+<!-- <h1 align="center">Hi 👋, I'm Kanishk</h1> -->
+<img src="header.png">
+<img src="https://komarev.com/ghpvc/?username=can-ishk&label=Profile%20views&color=0e75b6&style=flat" align='right'
         alt="can-ishk" />
 <h3 align="center">A third year Computer Science & Engineering Student.</h3> 
 
