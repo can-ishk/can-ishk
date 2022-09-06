@@ -7,8 +7,7 @@
 I'm an avid learner and a technology enthusiast, and keep up with and explore the latest hardware and software.
 <h3>Currently I am: </h3>
 
-- a Cloud Engineering Intern @ Ameriprise Financial
-- exploring Full Stack Development using Next.js and Typescript
+- exploring back-end development using Django
 - learning more about Machine Learning, Competitive Programming, Cloud Engineering, DevOps & Cyber Security Fundamentals.
 
 <h3 align="left">Connect with me:</h3>
