@@ -82,8 +82,6 @@ I'm an avid learner and a technology enthusiast, and keep up with and explore th
 
 <p>
 
-<p align="center">&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=can-ishk&show_icons=true&locale=en" alt="can-ishk" />
-</p>
+
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=can-ishk&" alt="can-ishk" /></p>
