@@ -7,15 +7,15 @@
 I'm an avid learner and a technology enthusiast, and keep up with and explore the latest hardware and software.
 <h3>Currently I am: </h3>
 
-- exploring back-end development using Django
-- learning more about Machine Learning, Competitive Programming, Cloud Engineering, DevOps & Cyber Security Fundamentals.
+- exploring full stack development using Angular, .NET, and Django
+- learning more about Machine Learning, Cloud Engineering, DevOps & Cyber Security Fundamentals.
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="center" style="background-color: white; padding:10px; margin:10px; border-radius:10px; width:max-content;">
 <a href="https://linkedin.com/in/kanishk-chathley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-chathley" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/canishk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="canishk" height="30" width="40" /></a>
 </p>
-
+ -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" style="background-color: white; padding:10px; border-radius:10px; margin:10px;"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
