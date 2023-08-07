@@ -2,12 +2,12 @@
 <img src="header.png">
 <img src="https://komarev.com/ghpvc/?username=can-ishk&label=Profile%20views&color=0e75b6&style=flat" align='right'
         alt="can-ishk" />
-<h3 align="center">A third year Computer Science & Engineering Student.</h3> 
+<h3 align="center">A fourth-year Computer Science & Engineering Student.</h3> 
 
-I'm an avid learner and a technology enthusiast, and keep up with and explore the latest hardware and software.
+I'm an avid learner and a technology enthusiast that keeps up with the latest hardware and software.
 <h3>Currently I am: </h3>
 
-- exploring full stack development using Angular, .NET, and Django
+- exploring full-stack development using Angular, .NET, and Django
 - learning more about Machine Learning, Cloud Engineering, DevOps & Cyber Security Fundamentals.
 
 <!-- <h3 align="left">Connect with me:</h3>
@@ -17,7 +17,7 @@ I'm an avid learner and a technology enthusiast, and keep up with and explore th
 </p>
  -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="background-color: white; padding:10px; border-radius:10px; margin:10px;"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
+<p align="center" style="padding:10px; border-radius:10px; margin:10px;"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"
         rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40"
@@ -78,10 +78,8 @@ I'm an avid learner and a technology enthusiast, and keep up with and explore th
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
             height="40" /> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-            alt="typescript" width="40" height="40" /> </a> </p>
-
-<p>
-
+            alt="typescript" width="40" height="40" /> </a>
+</p>
 
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=can-ishk&" alt="can-ishk" /></p>
+
