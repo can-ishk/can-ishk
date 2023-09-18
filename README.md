@@ -4,12 +4,13 @@
         alt="can-ishk" />
 <h3 align="center">A fourth-year Computer Science & Engineering Student.</h3> 
 
-I'm an avid learner and a technology enthusiast that keeps up with the latest hardware and software.
+I'm an avid learner and a technology enthusiast who keeps up with the latest hardware and software.
+<!--
 <h3>Currently I am: </h3>
 
 - exploring full-stack development using Angular, .NET, and Django
 - learning more about Machine Learning, Cloud Engineering, DevOps & Cyber Security Fundamentals.
-
+-->
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="center" style="background-color: white; padding:10px; margin:10px; border-radius:10px; width:max-content;">
 <a href="https://linkedin.com/in/kanishk-chathley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishk-chathley" height="30" width="40" /></a>
