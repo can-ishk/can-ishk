@@ -2,9 +2,9 @@
 <img src="header.png">
 <img src="https://komarev.com/ghpvc/?username=can-ishk&label=Profile%20views&color=0e75b6&style=flat" align='right'
         alt="can-ishk" />
-<h3 align="center">A fourth-year Computer Science & Engineering Student.</h3> 
+<h3 align="center"></h3> 
 
-I'm an avid learner and a technology enthusiast who keeps up with the latest hardware and software.
+A technology enthusiast who keeps up with the latest hardware and software.
 <!--
 <h3>Currently I am: </h3>
 
